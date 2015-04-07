@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStructure", "TestGame\GameStructure.csproj", "{24F20AAC-B4B4-452F-B2A2-EB03FC96CAF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStructure", "GameStructure\GameStructure.csproj", "{24F20AAC-B4B4-452F-B2A2-EB03FC96CAF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

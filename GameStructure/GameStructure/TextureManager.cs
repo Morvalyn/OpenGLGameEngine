@@ -12,7 +12,7 @@ namespace GameStructure
     {
         Dictionary<string, Texture> _textureDatabase = new Dictionary<string, Texture>();
         
-        public TextureGet(string textureId) 
+        public Texture Get(string textureId) 
         { 
             return _textureDatabase[textureId]; 
         }

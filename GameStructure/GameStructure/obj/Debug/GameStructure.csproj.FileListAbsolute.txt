@@ -1,0 +1,11 @@
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameStructure.csprojResolveAssemblyReference.cache
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameStructure.Form1.resources
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameStructure.Properties.Resources.resources
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameStructure.csproj.GenerateResource.Cache
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\bin\Debug\GameLibrary.pdb
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\bin\Debug\OpenTK.pdb
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\bin\Debug\GameEngine.exe.config
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\bin\Debug\GameEngine.exe
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\bin\Debug\GameEngine.pdb
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameEngine.exe
+F:\Development\tutorials\C# Game Book\GameEngine\GameStructure\GameStructure\obj\Debug\GameEngine.pdb
