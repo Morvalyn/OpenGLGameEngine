@@ -1,0 +1,4 @@
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\bin\Release\GameLibrary.dll
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\bin\Release\GameLibrary.pdb
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\obj\Release\GameLibrary.dll
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\obj\Release\GameLibrary.pdb

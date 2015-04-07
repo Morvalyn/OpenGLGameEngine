@@ -1,0 +1,5 @@
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+F:\Development\tutorials\C# Game Book\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
